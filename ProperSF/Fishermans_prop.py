@@ -44,7 +44,7 @@ if (answer1_bool >= 3):
 p(text.after_print)
 #Short text defining strings
 
-p(text.learn_float)
+printa(text.learn_float)
 #Text for menu, explains floats, and leads to float question below
 answer2_bool = 0
 
